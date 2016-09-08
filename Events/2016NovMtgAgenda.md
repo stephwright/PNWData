@@ -7,7 +7,7 @@
 | 11:30a   |   Break       |
 | 11:45a   |   More Lightning Talks & Demos       |
 | 1p       |   Lunch on your own       |
-| 2:15p    |   Ethics & Privacy for Sensitive Data         |
+| 2:15p    |   Ethics & Privacy for Sensitive Data: Kaitlyn Gutteridge, Research Data Privacy and Security Officer, UBC Advanced Research Computing          |
 | 2:45p    |   International Policy Perspectives Panel       |
 | 3:30p    |   Canadian National Research Infrastructure       |
 | 4-4:15p  |   Wrap up / Next Steps       |
