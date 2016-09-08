@@ -1,10 +1,10 @@
 | Time     | Activity |
 |----------|----------|
 | 9a       |   Intro       |
-| 9:15a    |   Keynote: Tim Vines, PhD - Long tail of Research Data      |
+| 9:15a    |   Keynote: Tim Vines, PhD, University of British Columbia (UBC) - Long tail of Research Data      |
 | 9:45a    |   Q & A      |
 | 10a    |   Lightning Talks & Demos        |
-| 11:30a   |   Break       |
+| 11:30a   |   Coffee Break (provided)       |
 | 11:45a   |   More Lightning Talks & Demos       |
 | 1p       |   Lunch on your own       |
 | 2:15p    |   Ethics & Privacy for Sensitive Data: Kaitlyn Gutteridge, Research Data Privacy and Security Officer, UBC Advanced Research Computing          |
