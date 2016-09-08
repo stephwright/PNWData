@@ -1,7 +1,7 @@
 | Time     | Activity |
 |----------|----------|
 | 9a       |   Intro       |
-| 9:15a    |   Keynote: Tim Vines      |
+| 9:15a    |   Keynote: Tim Vines, PhD - Long tail of Research Data      |
 | 9:45a    |   Q & A      |
 | 10a    |   Lightning Talks & Demos        |
 | 11:30a   |   Break       |
